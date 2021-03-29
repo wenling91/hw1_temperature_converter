@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">hw1_temperature_converter</string>
+    <string name="temperature_converter">溫度轉換</string>
+    <string name="input_temp">輸入華氏溫度</string>
+    <string name="convert">轉換</string>
+    <string name="output_temp">輸出攝氏溫度</string>
+</resources>
