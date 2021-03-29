@@ -15,7 +15,9 @@
             android:layout_gravity="center_horizontal"
             android:layout_marginTop="50dp"
             android:text="@string/temperature_converter"
-            android:textSize="20sp" />
+            android:textColor="#F4511E"
+            android:textSize="24sp"
+            android:textStyle="bold" />
 
         <EditText
             android:id="@+id/input"
@@ -34,7 +36,8 @@
             android:layout_gravity="center_horizontal"
             android:layout_marginTop="80dp"
             android:text="@string/convert"
-            android:textSize="20sp" />
+            android:textSize="20sp"
+            app:backgroundTint="#E53935" />
 
         <TextView
             android:id="@+id/output"
